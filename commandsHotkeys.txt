@@ -1,3 +1,7 @@
 vim:
 
 :%s/text-to-change/new-text/g
+
+git:
+
+git remote add nameOfRemote linkToRemote
