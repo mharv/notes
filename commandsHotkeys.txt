@@ -1,0 +1,3 @@
+vim:
+
+:%s/text-to-change/new-text/g
