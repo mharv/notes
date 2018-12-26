@@ -4,4 +4,14 @@ vim:
 
 git:
 
+to add a alias to the git repository for pushing:
 git remote add nameOfRemote linkToRemote
+
+anaconda:
+
+to change python version within an anaconda environment:
+conda install python=3.6.X
+
+
+
+
