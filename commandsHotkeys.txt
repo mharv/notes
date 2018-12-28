@@ -7,6 +7,10 @@ git:
 to add a alias to the git repository for pushing:
 git remote add nameOfRemote linkToRemote
 
+to force a push
+git push origin master -f
+
+
 anaconda:
 
 to change python version within an anaconda environment:
@@ -14,4 +18,8 @@ conda install python=3.6.X
 
 
 
+terminal:
+
+to delete a directory with contents:
+rm -R folder OR rm -iR folder
 
