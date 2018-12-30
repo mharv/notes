@@ -1,5 +1,9 @@
 vim:
 
+vertically split the window with a different file:
+:vsplit filename.ext
+
+change multiple text to something else in one command:
 :%s/text-to-change/new-text/g
 
 git:
