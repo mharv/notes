@@ -25,5 +25,5 @@ conda install python=3.6.X
 terminal:
 
 to delete a directory with contents:
-rm -R folder OR rm -iR folder
+rm -R foldername OR rm -iR foldername OR rm -Rf foldername
 
