@@ -31,3 +31,5 @@ to delete a directory with contents:
 rm -R foldername OR rm -iR foldername OR rm -Rf foldername
 to run a bash script:
 chmod +x scriptName THEN ./scriptName
+to close a terminal tab:
+ctrl + D OR type 'exit'
