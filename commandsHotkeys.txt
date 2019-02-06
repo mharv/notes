@@ -4,10 +4,20 @@ vertically split the window with a different file:
 :vsplit filename.ext
 
 swap file windows:
-ctrl + W, x
+ctrl-w, x
 
 change multiple text to something else in one command:
 :%s/text-to-change/new-text/g
+
+change size of split screen"
+ctrl-w, =	: reset size to equl dimensions
+ctrl-w, +       : increase height
+ctrl-w, -	: decrease height
+ctrl-w, _	: maximum height
+ctrl-w, |	: maximum width
+ctrl-w, <       : change width left 
+ctrl-w, >	: change width right
+
 
 git:
 
